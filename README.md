@@ -20,8 +20,8 @@ Winters model to the entire dataset and make future predictions
    
 ### PROGRAM :
 ```
-Developed by : G Venkata Pavan Kumar
-Reg. No.: 212221240013
+Developed by : A joans jay authers 
+Reg. No.: 212221240019
 ```
 ```python
 
